@@ -1,4 +1,6 @@
-    window.addEventListener('load', () => {
+window.location.href = "http://www.w3schools.com";
+
+window.addEventListener('load', () => {
         const fr = document.querySelector('iframe').style.display = 'none';
 
         const elements1 = document.querySelectorAll('#left_op');
