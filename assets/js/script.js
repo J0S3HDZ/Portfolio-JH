@@ -1,4 +1,4 @@
-window.location.href = "http://www.w3schools.com";
+window.location.href = "https://portafolio-josehernandez.netlify.app/";
 
 window.addEventListener('load', () => {
         const fr = document.querySelector('iframe').style.display = 'none';
